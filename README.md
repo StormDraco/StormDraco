@@ -1,4 +1,4 @@
-# Hey, I'm Sora 👋
+# Hey, I'm Sonup 👋
 
 Founder & developer based in Nepal, building products for Nepali and Chinese-speaking communities.
 
