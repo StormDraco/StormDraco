@@ -31,4 +31,4 @@ Founder & developer based in Nepal.
 
 ## Let's connect
 
-Email: `your-email@example.com`
+Email: `jogethwa.sonup@gmail.com`
